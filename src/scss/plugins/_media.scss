@@ -30,6 +30,13 @@
         width: 90%;
     }
 }
+
+@media (max-width: 900px) {
+    .contacts__info-arrange-data input {
+    width: 90%;
+    }
+}
+
 @media (max-width: 768px) {
     .navigation {
         display: none;
