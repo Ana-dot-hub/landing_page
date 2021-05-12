@@ -21,6 +21,6 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-imagemin": "^7.1.0",
     "gulp-sourcemaps": "^2.6.5",
-    "swiper": "^5.4.2"
+    "swiper": "^6.5.1"
   }
 }
